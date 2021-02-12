@@ -84,3 +84,5 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
     To be able to iterate through it
 5. What is a component?
     a function that creates html elements
+
+
